@@ -13,7 +13,8 @@ class CodeJam_C
 
 			int T=Integer.parseInt(fin.readLine());
 
-			FileWriter fw=new FileWriter("C:\\USers\\Asus\\Desktop\\output.txt");
+			FileWriter fw=new FileWriter("C:\\Users\\Asus\\Desktop\\output.txt");
+
 			int count=1;
 
 			while((T--)>0)
